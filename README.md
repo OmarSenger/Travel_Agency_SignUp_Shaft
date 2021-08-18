@@ -10,7 +10,7 @@ Some fields accepting wrong data , like " phone number & email " , we can exclud
 1/ Exist Email 
 It is a positive test case that the user can't register with the same email twice .
 
-2/ Wrong Phone Number Formation
+2/ Wrong Phone Number
 As i said i considered that the website is an Egyptian website so the phone number should be as example : 01234567890
 so it is a negative test case .
 
@@ -33,3 +33,5 @@ Allure has a great and easy gui that gives you a chart about the percentage of t
 # Video for running the script
 
 https://drive.google.com/file/d/1efWD9g-kUI65CpcPH3WQVaVs6ulT73R1/view?usp=sharing
+
+Note : I uploaded the video before i edited something in " Wrong phone number " .
