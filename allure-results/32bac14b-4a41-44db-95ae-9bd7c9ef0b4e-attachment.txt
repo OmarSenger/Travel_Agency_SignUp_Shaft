@@ -1,0 +1,116 @@
+################################################################################################################################################
+Detected SHAFT Engine Version: [SHAFT Engine v5.3.20210519]
+################################################################################################################################################
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @18-08-2021 18:04:47.0125 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @18-08-2021 18:04:47.0238 PM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @18-08-2021 18:04:47.0243 PM
+[ReportManager] Successfully Opened Google Chrome. @18-08-2021 18:04:50.0177 PM
+[ReportManager] Target URL: [https://www.phptravels.net/signup] @18-08-2021 18:04:50.0209 PM
+[ReportManager] Initial URL: [data:,] @18-08-2021 18:04:50.0296 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210818-180444", Target File: "\1629302694594_beforeClass.gif"]. @18-08-2021 18:04:55.0015 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://www.phptravels.net/signup]. @18-08-2021 18:04:55.0651 PM
+[ReportManager] Successfully created attachment [Animated Gif - beforeClass] @18-08-2021 18:04:55.0660 PM
+
+################################################################################################################################################
+Starting Execution:	[1 out of 5] test cases in the current suite
+Test Method:		[SignUpTest.SignUpTest.existEmail]
+################################################################################################################################################
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210818-180444", Target File: "\1629302696860_existEmail.gif"]. @18-08-2021 18:04:56.0947 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Omar]. @18-08-2021 18:04:57.0432 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Senger]. @18-08-2021 18:04:58.0423 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [01568938890]. @18-08-2021 18:04:59.0388 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [omarsenger1@gmail.com]. @18-08-2021 18:05:00.0374 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [123456789]. @18-08-2021 18:05:01.0341 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Customer]. @18-08-2021 18:05:03.0029 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Agent]. @18-08-2021 18:05:04.0478 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Signup]. @18-08-2021 18:05:06.0888 PM
+[ReportManager] Element Action [GetText] successfully performed. With the following test data [Email already exist!]. @18-08-2021 18:05:07.0597 PM
+[ReportManager] Assertion [ValidateEquals] PASSED. Expected [Email already exist!] and Actual [Email already exist!]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @18-08-2021 18:05:07.0619 PM
+[ReportManager] Successfully created attachment [Animated Gif - existEmail] @18-08-2021 18:05:07.0659 PM
+
+################################################################################################################################################
+Starting Execution:	[2 out of 5] test cases in the current suite
+Test Method:		[SignUpTest.SignUpTest.wrongPhoneNo]
+################################################################################################################################################
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210818-180444", Target File: "\1629302708488_wrongPhoneNo.gif"]. @18-08-2021 18:05:08.0569 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Omar]. @18-08-2021 18:05:08.0987 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Senger]. @18-08-2021 18:05:09.0863 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [1234]. @18-08-2021 18:05:10.0817 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [omarsenger@yahoo.com]. @18-08-2021 18:05:11.0719 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [123456789]. @18-08-2021 18:05:12.0562 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Customer]. @18-08-2021 18:05:14.0074 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Agent]. @18-08-2021 18:05:15.0395 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Signup]. @18-08-2021 18:05:17.0808 PM
+[ReportManager] Element Action [GetText] successfully performed. With the following test data [Signup successfull please login.]. @18-08-2021 18:05:18.0486 PM
+[ReportManager] Assertion [ValidateEquals] FAILED. Expected [Signup successfull please login.] and Actual [Wrong Phone Number ex : 01234567890]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @18-08-2021 18:05:18.0490 PM
+[ReportManager] Successfully created attachment [Animated Gif - wrongPhoneNo] @18-08-2021 18:05:18.0499 PM
+
+################################################################################################################################################
+Starting Execution:	[3 out of 5] test cases in the current suite
+Test Method:		[SignUpTest.SignUpTest.limitPassword]
+################################################################################################################################################
+[ReportManager] Target URL: [https://www.phptravels.net/signup] @18-08-2021 18:05:18.0525 PM
+[ReportManager] Initial URL: [https://www.phptravels.net/login/signup] @18-08-2021 18:05:18.0587 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210818-180444", Target File: "\1629302719665_limitPassword.gif"]. @18-08-2021 18:05:19.0749 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://www.phptravels.net/signup]. @18-08-2021 18:05:20.0171 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Omar]. @18-08-2021 18:05:20.0997 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Senger]. @18-08-2021 18:05:21.0899 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [01568938890]. @18-08-2021 18:05:22.0765 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [omarsenger2@yahoo.com]. @18-08-2021 18:05:23.0612 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [1234]. @18-08-2021 18:05:24.0457 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Customer]. @18-08-2021 18:05:25.0921 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Agent]. @18-08-2021 18:05:27.0256 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Signup]. @18-08-2021 18:05:29.0564 PM
+[ReportManager] Element Action [GetText] successfully performed. With the following test data [Signup successfull please login.]. @18-08-2021 18:05:30.0223 PM
+[ReportManager] Assertion [ValidateEquals] FAILED. Expected [Signup successfull please login.] and Actual [password should be at least 8 characters with capital letter and small letter]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @18-08-2021 18:05:30.0223 PM
+[ReportManager] Successfully created attachment [Animated Gif - limitPassword] @18-08-2021 18:05:30.0230 PM
+
+################################################################################################################################################
+Starting Execution:	[4 out of 5] test cases in the current suite
+Test Method:		[SignUpTest.SignUpTest.wrongEmailFormat]
+################################################################################################################################################
+[ReportManager] Target URL: [https://www.phptravels.net/signup] @18-08-2021 18:05:30.0247 PM
+[ReportManager] Initial URL: [https://www.phptravels.net/login/signup] @18-08-2021 18:05:30.0301 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210818-180444", Target File: "\1629302731328_wrongEmailFormat.gif"]. @18-08-2021 18:05:31.0411 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://www.phptravels.net/signup]. @18-08-2021 18:05:31.0826 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Omar]. @18-08-2021 18:05:32.0655 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Senger]. @18-08-2021 18:05:33.0509 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [01068938890]. @18-08-2021 18:05:34.0338 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [zzz]. @18-08-2021 18:05:35.0154 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [123456789]. @18-08-2021 18:05:35.0966 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Customer]. @18-08-2021 18:05:37.0515 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Agent]. @18-08-2021 18:05:38.0831 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Signup]. @18-08-2021 18:05:41.0117 PM
+[ReportManager] Element Action [GetText] successfully performed. With the following test data [Signup successfull please login.]. @18-08-2021 18:05:41.0736 PM
+[ReportManager] Assertion [ValidateEquals] FAILED. Expected [Signup successfull please login.] and Actual [Wrong Email Formation]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @18-08-2021 18:05:41.0737 PM
+[ReportManager] Successfully created attachment [Animated Gif - wrongEmailFormat] @18-08-2021 18:05:41.0741 PM
+
+################################################################################################################################################
+Starting Execution:	[5 out of 5] test cases in the current suite
+Test Method:		[SignUpTest.SignUpTest.successfullSignUp]
+################################################################################################################################################
+[ReportManager] Target URL: [https://www.phptravels.net/signup] @18-08-2021 18:05:41.0755 PM
+[ReportManager] Initial URL: [https://www.phptravels.net/login/signup] @18-08-2021 18:05:41.0802 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210818-180444", Target File: "\1629302742798_successfullSignUp.gif"]. @18-08-2021 18:05:42.0876 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://www.phptravels.net/signup]. @18-08-2021 18:05:43.0310 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Omar]. @18-08-2021 18:05:44.0160 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Senger]. @18-08-2021 18:05:45.0026 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [01568938820]. @18-08-2021 18:05:45.0850 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [omarsenger3@yahoo.com]. @18-08-2021 18:05:46.0716 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [123456789oO]. @18-08-2021 18:05:47.0616 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Customer]. @18-08-2021 18:05:49.0054 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Agent]. @18-08-2021 18:05:50.0374 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Signup]. @18-08-2021 18:05:52.0642 PM
+[ReportManager] Element Action [GetText] successfully performed. With the following test data [Signup successfull please login.]. @18-08-2021 18:05:53.0284 PM
+[ReportManager] Assertion [ValidateEquals] PASSED. Expected [Signup successfull please login.] and Actual [Signup successfull please login.]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @18-08-2021 18:05:53.0285 PM
+[ReportManager] Successfully created attachment [Animated Gif - successfullSignUp] @18-08-2021 18:05:53.0292 PM
+
+################################################################################################################################################
+Test Closure Activities
+################################################################################################################################################
+[ReportManager] Successfully created attachment [SHAFT Engine Logs - Execution log] @18-08-2021 18:05:56.0543 PM
+
+################################################################################################################################################
+This test run was powered by SHAFT Engine Version: [SHAFT Engine v5.3.20210519]
+SHAFT Engine is licensed under the MIT License: [https://github.com/MohabMohie/SHAFT_ENGINE/blob/master/LICENSE].
+################################################################################################################################################

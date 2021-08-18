@@ -1,0 +1,16 @@
+[2021-08-18T18:04:52+0200] [INFO] https://www.phptravels.net/signup - Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://www.phptravels.net/app/themes/default/assets/fonts/la-solid-900.woff2
+[2021-08-18T18:04:52+0200] [INFO] https://www.phptravels.net/signup - Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://www.phptravels.net/app/themes/default/assets/fonts/la-brands-400.woff2
+[2021-08-18T18:04:52+0200] [INFO] https://www.phptravels.net/signup - Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://www.phptravels.net/app/themes/default/assets/fonts/la-regular-400.woff2
+[2021-08-18T18:04:53+0200] [FINE] https://www.phptravels.net/signup - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+[2021-08-18T18:05:06+0200] [FINE] https://www.phptravels.net/signup/failed - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+[2021-08-18T18:05:17+0200] [WARNING] https://www.phptravels.net/login/signup - [DOM] Found 2 elements with non-unique id #: (More info: https://goo.gl/9p2vKq) %o %o
+[2021-08-18T18:05:17+0200] [FINE] https://www.phptravels.net/login/signup - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+[2021-08-18T18:05:19+0200] [FINE] https://www.phptravels.net/signup - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+[2021-08-18T18:05:28+0200] [WARNING] https://www.phptravels.net/login/signup - [DOM] Found 2 elements with non-unique id #: (More info: https://goo.gl/9p2vKq) %o %o
+[2021-08-18T18:05:28+0200] [FINE] https://www.phptravels.net/login/signup - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+[2021-08-18T18:05:30+0200] [FINE] https://www.phptravels.net/signup - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+[2021-08-18T18:05:40+0200] [WARNING] https://www.phptravels.net/login/signup - [DOM] Found 2 elements with non-unique id #: (More info: https://goo.gl/9p2vKq) %o %o
+[2021-08-18T18:05:40+0200] [FINE] https://www.phptravels.net/login/signup - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+[2021-08-18T18:05:42+0200] [FINE] https://www.phptravels.net/signup - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+[2021-08-18T18:05:52+0200] [WARNING] https://www.phptravels.net/login/signup - [DOM] Found 2 elements with non-unique id #: (More info: https://goo.gl/9p2vKq) %o %o
+[2021-08-18T18:05:52+0200] [FINE] https://www.phptravels.net/login/signup - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o

@@ -1,0 +1,3 @@
+1, Test Method "SignUpTest.SignUpTest.wrongPhoneNo" failed. Please investigate and open a new Issue if needed.
+2, Test Method "SignUpTest.SignUpTest.limitPassword" failed. Please investigate and open a new Issue if needed.
+3, Test Method "SignUpTest.SignUpTest.wrongEmailFormat" failed. Please investigate and open a new Issue if needed.

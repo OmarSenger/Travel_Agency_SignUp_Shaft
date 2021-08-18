@@ -1,0 +1,17 @@
+
+################################################################################################################################################
+Starting Execution:	[2 out of 5] test cases in the current suite
+Test Method:		[SignUpTest.SignUpTest.wrongPhoneNo]
+################################################################################################################################################
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210818-180444", Target File: "\1629302708488_wrongPhoneNo.gif"]. @18-08-2021 18:05:08.0569 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Omar]. @18-08-2021 18:05:08.0987 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Senger]. @18-08-2021 18:05:09.0863 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [1234]. @18-08-2021 18:05:10.0817 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [omarsenger@yahoo.com]. @18-08-2021 18:05:11.0719 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [123456789]. @18-08-2021 18:05:12.0562 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Customer]. @18-08-2021 18:05:14.0074 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Agent]. @18-08-2021 18:05:15.0395 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Signup]. @18-08-2021 18:05:17.0808 PM
+[ReportManager] Element Action [GetText] successfully performed. With the following test data [Signup successfull please login.]. @18-08-2021 18:05:18.0486 PM
+[ReportManager] Assertion [ValidateEquals] FAILED. Expected [Signup successfull please login.] and Actual [Wrong Phone Number ex : 01234567890]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @18-08-2021 18:05:18.0490 PM
+[ReportManager] Successfully created attachment [Animated Gif - wrongPhoneNo] @18-08-2021 18:05:18.0499 PM

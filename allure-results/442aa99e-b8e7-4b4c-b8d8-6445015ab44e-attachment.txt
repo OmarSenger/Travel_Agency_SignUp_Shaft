@@ -1,0 +1,20 @@
+
+################################################################################################################################################
+Starting Execution:	[3 out of 5] test cases in the current suite
+Test Method:		[SignUpTest.SignUpTest.limitPassword]
+################################################################################################################################################
+[ReportManager] Target URL: [https://www.phptravels.net/signup] @18-08-2021 18:05:18.0525 PM
+[ReportManager] Initial URL: [https://www.phptravels.net/login/signup] @18-08-2021 18:05:18.0587 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210818-180444", Target File: "\1629302719665_limitPassword.gif"]. @18-08-2021 18:05:19.0749 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://www.phptravels.net/signup]. @18-08-2021 18:05:20.0171 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Omar]. @18-08-2021 18:05:20.0997 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Senger]. @18-08-2021 18:05:21.0899 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [01568938890]. @18-08-2021 18:05:22.0765 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [omarsenger2@yahoo.com]. @18-08-2021 18:05:23.0612 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [1234]. @18-08-2021 18:05:24.0457 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Customer]. @18-08-2021 18:05:25.0921 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Agent]. @18-08-2021 18:05:27.0256 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Signup]. @18-08-2021 18:05:29.0564 PM
+[ReportManager] Element Action [GetText] successfully performed. With the following test data [Signup successfull please login.]. @18-08-2021 18:05:30.0223 PM
+[ReportManager] Assertion [ValidateEquals] FAILED. Expected [Signup successfull please login.] and Actual [password should be at least 8 characters with capital letter and small letter]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @18-08-2021 18:05:30.0223 PM
+[ReportManager] Successfully created attachment [Animated Gif - limitPassword] @18-08-2021 18:05:30.0230 PM

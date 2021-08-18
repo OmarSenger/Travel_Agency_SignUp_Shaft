@@ -1,0 +1,17 @@
+
+################################################################################################################################################
+Starting Execution:	[1 out of 5] test cases in the current suite
+Test Method:		[SignUpTest.SignUpTest.existEmail]
+################################################################################################################################################
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210818-180444", Target File: "\1629302696860_existEmail.gif"]. @18-08-2021 18:04:56.0947 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Omar]. @18-08-2021 18:04:57.0432 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Senger]. @18-08-2021 18:04:58.0423 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [01568938890]. @18-08-2021 18:04:59.0388 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [omarsenger1@gmail.com]. @18-08-2021 18:05:00.0374 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [123456789]. @18-08-2021 18:05:01.0341 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Customer]. @18-08-2021 18:05:03.0029 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Agent]. @18-08-2021 18:05:04.0478 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Signup]. @18-08-2021 18:05:06.0888 PM
+[ReportManager] Element Action [GetText] successfully performed. With the following test data [Email already exist!]. @18-08-2021 18:05:07.0597 PM
+[ReportManager] Assertion [ValidateEquals] PASSED. Expected [Email already exist!] and Actual [Email already exist!]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @18-08-2021 18:05:07.0619 PM
+[ReportManager] Successfully created attachment [Animated Gif - existEmail] @18-08-2021 18:05:07.0659 PM
