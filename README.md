@@ -24,4 +24,12 @@ It is a negative test case cause the user can write his email like that " zz " w
 
 It is the happy scenario that the user can sign up normally without any problems .  
 
+# Alor Reporting Tool
 
+Shaft Engine use an Amazing reporting tool calls Alor that write your test cases steps in details and give you a GIF about the steps happened .
+
+Alor has a great and easy gui that gives you a chart about the percentage of the failed test cases and successfull one .
+
+# Video for running the script
+
+https://drive.google.com/file/d/1efWD9g-kUI65CpcPH3WQVaVs6ulT73R1/view?usp=sharing
