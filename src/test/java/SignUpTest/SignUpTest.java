@@ -29,13 +29,13 @@ public class SignUpTest {
 	
 	@Test (priority = 1)
 	public void wrongPhoneNo() {
-		signUpPage.dataAction("Omar", "Senger", "1234","omarsenger10@yahoo.com", "123456789");
+		signUpPage.dataAction("Omar", "Senger", "Thats not a phone number","omarsenger10@yahoo.com", "123456789");
 		String wrongPhoneMsg = ElementActions.getText(driver, By.className("message"));
 		Assertions.assertEquals(wrongPhoneMsg, "Wrong Phone Number ex : 01234567890");	
 	}
 	
 	@Test(priority = 2)
-	public void limitPassword() {
+	public void PasswordValidation() {
 		BrowserActions.navigateToURL(driver,"https://www.phptravels.net/signup");
 		signUpPage.dataAction("Omar", "Senger", "01568938890","omarsenger11@yahoo.com", "1234");
 		String noLimitPasssMsg = ElementActions.getText(driver, By.className("message"));
