@@ -34,7 +34,7 @@
   </parameter>
   <parameter>
     <key>sun.java.command</key>
-    <value>org.testng.remote.RemoteTestNG -usedefaultlisteners false -listener com.shaft.tools.listeners.AlterSuiteListener,com.shaft.tools.listeners.SuiteListener,com.shaft.tools.listeners.InvokedMethodListener,com.shaft.tools.listeners.CucumberFeatureListener -serport 2367 -protocol json -d C:\Users\lenovo\eclipse-workspace\GetGroup\test-output C:\Users\lenovo\AppData\Local\Temp\testng-eclipse--1025419167\testng-customsuite.xml</value>
+    <value>org.testng.remote.RemoteTestNG -usedefaultlisteners false -listener com.shaft.tools.listeners.AlterSuiteListener,com.shaft.tools.listeners.SuiteListener,com.shaft.tools.listeners.InvokedMethodListener,com.shaft.tools.listeners.CucumberFeatureListener -serport 14563 -protocol json -d C:\Users\lenovo\eclipse-workspace\GetGroup\test-output C:\Users\lenovo\AppData\Local\Temp\testng-eclipse-2141623577\testng-customsuite.xml</value>
   </parameter>
   <parameter>
     <key>jdk.debug</key>

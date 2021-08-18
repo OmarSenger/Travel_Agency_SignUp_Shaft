@@ -1,0 +1,8 @@
+
+################################################################################################################################################
+Starting Execution:	[1 out of 5] test cases in the current suite
+Test Method:		[SignUpTest.SignUpTest.existEmail]
+################################################################################################################################################
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210818-192056", Target File: "\1629307268201_existEmail.gif"]. @18-08-2021 19:21:08.0284 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Omar]. @18-08-2021 19:21:08.0703 PM
+[ReportManager] Successfully created attachment [Animated Gif - existEmail] @18-08-2021 19:21:08.0900 PM

@@ -17,6 +17,7 @@ public class SignUpTest {
 	public void beforeClass() {
 		driver = DriverFactory.getDriver();
 		BrowserActions.navigateToURL(driver,"https://www.phptravels.net/signup");
+		ElementActions.click(driver, By.id("cookie_stop"));
 		signUpPage = new SignUpPage(driver);
 	}
 	

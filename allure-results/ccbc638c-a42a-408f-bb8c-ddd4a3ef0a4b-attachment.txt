@@ -1,0 +1,10 @@
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @18-08-2021 19:20:57.0977 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @18-08-2021 19:20:58.0089 PM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @18-08-2021 19:20:58.0093 PM
+[ReportManager] Successfully Opened Google Chrome. @18-08-2021 19:21:01.0163 PM
+[ReportManager] Target URL: [https://www.phptravels.net/signup] @18-08-2021 19:21:01.0191 PM
+[ReportManager] Initial URL: [data:,] @18-08-2021 19:21:01.0264 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210818-192056", Target File: "\1629307265173_beforeClass.gif"]. @18-08-2021 19:21:05.0536 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://www.phptravels.net/signup]. @18-08-2021 19:21:06.0045 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Got It]. @18-08-2021 19:21:07.0475 PM
+[ReportManager] Successfully created attachment [Animated Gif - beforeClass] @18-08-2021 19:21:07.0482 PM

@@ -1,0 +1,7 @@
+
+################################################################################################################################################
+Starting Execution:	[2 out of 5] test cases in the current suite
+Test Method:		[SignUpTest.SignUpTest.wrongPhoneNo]
+################################################################################################################################################
+[ReportManager] An Exception Occured with this Message: no such window: target window already closed. @18-08-2021 19:21:09.0215 PM
+[ReportManager] Successfully created attachment [Exception Stack Trace - org.openqa.selenium.NoSuchWindowException] @18-08-2021 19:21:09.0217 PM

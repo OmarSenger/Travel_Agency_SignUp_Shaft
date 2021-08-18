@@ -1,0 +1,13 @@
+
+################################################################################################################################################
+Starting Execution:	[5 out of 5] test cases in the current suite
+Test Method:		[SignUpTest.SignUpTest.successfullSignUp]
+################################################################################################################################################
+[ReportManager] Target URL: [https://www.phptravels.net/signup] @18-08-2021 19:21:09.0378 PM
+[ReportManager] An Exception Occured with this Message: no such window: target window already closed. @18-08-2021 19:21:09.0383 PM
+[ReportManager] Successfully created attachment [Exception Stack Trace - org.openqa.selenium.NoSuchWindowException] @18-08-2021 19:21:09.0386 PM
+[ReportManager] An Exception Occured with this Message: no such window: target window already closed. @18-08-2021 19:21:09.0392 PM
+[ReportManager] Successfully created attachment [Exception Stack Trace - org.openqa.selenium.NoSuchWindowException] @18-08-2021 19:21:09.0395 PM
+[ReportManager] An Exception Occured with this Message: no such window: target window already closed. @18-08-2021 19:21:09.0401 PM
+[ReportManager] Successfully created attachment [Exception Stack Trace - org.openqa.selenium.NoSuchWindowException] @18-08-2021 19:21:09.0403 PM
+[ReportManager] Browser Action [NavigateToURL] failed. With the following test data [https://www.phptravels.net/signup]. @18-08-2021 19:21:09.0404 PM

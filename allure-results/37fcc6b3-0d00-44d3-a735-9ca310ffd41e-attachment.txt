@@ -1,0 +1,77 @@
+################################################################################################################################################
+Detected SHAFT Engine Version: [SHAFT Engine v5.3.20210519]
+################################################################################################################################################
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @18-08-2021 19:20:57.0977 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @18-08-2021 19:20:58.0089 PM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @18-08-2021 19:20:58.0093 PM
+[ReportManager] Successfully Opened Google Chrome. @18-08-2021 19:21:01.0163 PM
+[ReportManager] Target URL: [https://www.phptravels.net/signup] @18-08-2021 19:21:01.0191 PM
+[ReportManager] Initial URL: [data:,] @18-08-2021 19:21:01.0264 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210818-192056", Target File: "\1629307265173_beforeClass.gif"]. @18-08-2021 19:21:05.0536 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://www.phptravels.net/signup]. @18-08-2021 19:21:06.0045 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Got It]. @18-08-2021 19:21:07.0475 PM
+[ReportManager] Successfully created attachment [Animated Gif - beforeClass] @18-08-2021 19:21:07.0482 PM
+
+################################################################################################################################################
+Starting Execution:	[1 out of 5] test cases in the current suite
+Test Method:		[SignUpTest.SignUpTest.existEmail]
+################################################################################################################################################
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210818-192056", Target File: "\1629307268201_existEmail.gif"]. @18-08-2021 19:21:08.0284 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Omar]. @18-08-2021 19:21:08.0703 PM
+[ReportManager] Successfully created attachment [Animated Gif - existEmail] @18-08-2021 19:21:08.0900 PM
+
+################################################################################################################################################
+Starting Execution:	[2 out of 5] test cases in the current suite
+Test Method:		[SignUpTest.SignUpTest.wrongPhoneNo]
+################################################################################################################################################
+[ReportManager] An Exception Occured with this Message: no such window: target window already closed. @18-08-2021 19:21:09.0215 PM
+[ReportManager] Successfully created attachment [Exception Stack Trace - org.openqa.selenium.NoSuchWindowException] @18-08-2021 19:21:09.0217 PM
+
+################################################################################################################################################
+Starting Execution:	[3 out of 5] test cases in the current suite
+Test Method:		[SignUpTest.SignUpTest.PasswordValidation]
+################################################################################################################################################
+[ReportManager] Target URL: [https://www.phptravels.net/signup] @18-08-2021 19:21:09.0241 PM
+[ReportManager] An Exception Occured with this Message: no such window: target window already closed. @18-08-2021 19:21:09.0251 PM
+[ReportManager] Successfully created attachment [Exception Stack Trace - org.openqa.selenium.NoSuchWindowException] @18-08-2021 19:21:09.0253 PM
+[ReportManager] An Exception Occured with this Message: no such window: target window already closed. @18-08-2021 19:21:09.0265 PM
+[ReportManager] Successfully created attachment [Exception Stack Trace - org.openqa.selenium.NoSuchWindowException] @18-08-2021 19:21:09.0268 PM
+[ReportManager] An Exception Occured with this Message: no such window: target window already closed. @18-08-2021 19:21:09.0283 PM
+[ReportManager] Successfully created attachment [Exception Stack Trace - org.openqa.selenium.NoSuchWindowException] @18-08-2021 19:21:09.0285 PM
+[ReportManager] Browser Action [NavigateToURL] failed. With the following test data [https://www.phptravels.net/signup]. @18-08-2021 19:21:09.0286 PM
+
+################################################################################################################################################
+Starting Execution:	[4 out of 5] test cases in the current suite
+Test Method:		[SignUpTest.SignUpTest.wrongEmailFormat]
+################################################################################################################################################
+[ReportManager] Target URL: [https://www.phptravels.net/signup] @18-08-2021 19:21:09.0327 PM
+[ReportManager] An Exception Occured with this Message: no such window: target window already closed. @18-08-2021 19:21:09.0334 PM
+[ReportManager] Successfully created attachment [Exception Stack Trace - org.openqa.selenium.NoSuchWindowException] @18-08-2021 19:21:09.0337 PM
+[ReportManager] An Exception Occured with this Message: no such window: target window already closed. @18-08-2021 19:21:09.0346 PM
+[ReportManager] Successfully created attachment [Exception Stack Trace - org.openqa.selenium.NoSuchWindowException] @18-08-2021 19:21:09.0348 PM
+[ReportManager] An Exception Occured with this Message: no such window: target window already closed. @18-08-2021 19:21:09.0358 PM
+[ReportManager] Successfully created attachment [Exception Stack Trace - org.openqa.selenium.NoSuchWindowException] @18-08-2021 19:21:09.0360 PM
+[ReportManager] Browser Action [NavigateToURL] failed. With the following test data [https://www.phptravels.net/signup]. @18-08-2021 19:21:09.0361 PM
+
+################################################################################################################################################
+Starting Execution:	[5 out of 5] test cases in the current suite
+Test Method:		[SignUpTest.SignUpTest.successfullSignUp]
+################################################################################################################################################
+[ReportManager] Target URL: [https://www.phptravels.net/signup] @18-08-2021 19:21:09.0378 PM
+[ReportManager] An Exception Occured with this Message: no such window: target window already closed. @18-08-2021 19:21:09.0383 PM
+[ReportManager] Successfully created attachment [Exception Stack Trace - org.openqa.selenium.NoSuchWindowException] @18-08-2021 19:21:09.0386 PM
+[ReportManager] An Exception Occured with this Message: no such window: target window already closed. @18-08-2021 19:21:09.0392 PM
+[ReportManager] Successfully created attachment [Exception Stack Trace - org.openqa.selenium.NoSuchWindowException] @18-08-2021 19:21:09.0395 PM
+[ReportManager] An Exception Occured with this Message: no such window: target window already closed. @18-08-2021 19:21:09.0401 PM
+[ReportManager] Successfully created attachment [Exception Stack Trace - org.openqa.selenium.NoSuchWindowException] @18-08-2021 19:21:09.0403 PM
+[ReportManager] Browser Action [NavigateToURL] failed. With the following test data [https://www.phptravels.net/signup]. @18-08-2021 19:21:09.0404 PM
+
+################################################################################################################################################
+Test Closure Activities
+################################################################################################################################################
+[ReportManager] Successfully created attachment [SHAFT Engine Logs - Execution log] @18-08-2021 19:21:14.0440 PM
+
+################################################################################################################################################
+This test run was powered by SHAFT Engine Version: [SHAFT Engine v5.3.20210519]
+SHAFT Engine is licensed under the MIT License: [https://github.com/MohabMohie/SHAFT_ENGINE/blob/master/LICENSE].
+################################################################################################################################################
